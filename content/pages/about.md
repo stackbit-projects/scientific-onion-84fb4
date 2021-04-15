@@ -1,6 +1,6 @@
 ---
 title: A propos de moi !
-subtitle: This is a short page about me and my work
+subtitle: Un court texte pour une présentation.
 img_path: images/about.jpg
 seo:
   title: About Me
