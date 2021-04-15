@@ -1,7 +1,7 @@
 ---
 title: A propos de moi !
 subtitle: Un court texte pour une présentation.
-img_path: images/about.jpg
+img_path: images/Alexia Chauvry.jpeg
 seo:
   title: About Me
   description: A page about me and my work
