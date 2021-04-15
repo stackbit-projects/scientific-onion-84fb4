@@ -30,13 +30,16 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Je suis Alexia Chauvry, préparation d'un Master Expert Marketing Digital au sein du Greta de Rouen.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Après un baccalauréat littéraire option espagnol et latin, je me suis tournée vers un IUT Carrières Juridiques à la fac de droit de Rouen. Cependant, j'ai eu besoin de créativité et étant présidente du bureau des étudiants de l'IUT, j'ai décidé de changer de voix et partir en communication.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Je suis donc arrivée en 2019 en licence professionnelle communication avec une alternance dans une discothèque en tant que chargée communication événementiel. Malheureusement, la crise sanitaire est passée par là et j'ai décroché mon diplôme tout en étant au chomage partiel de mars à juillet de cette même année. J'en ai profité pour passé une certification de barmaid et lancer ma micro-entreprise au nom de [Swippie](swippie.fr).
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+Enfin, en 2020 je me suis lancé dans ce Master afin de finir en beauté mes études et compléter mes lacunes en marketing. Aujourd'hui je suis en alternance en sein du groupe Orange en tant qu'assistante communication marketing.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+> Une personne qui n'a jamais commis d'erreur, n'a jamais tenté d'innover. Albert Einstein
 
-*Thank You for reading!*
+Mes objectifs à court terme sont de décrocher mon diplôme ainsi qu'un CDI à l'issue de mes études tout en développant mon entreprise afin d'être à plus long terme mon propre patron.
+
+*A très vite !*
